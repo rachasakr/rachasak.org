@@ -3,7 +3,11 @@
   import LayoutGrid, { Cell } from '@smui/layout-grid';
 
 </script>
-<link rel="stylesheet" href="node_modules/svelte-material-ui/bare.css" />
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/svelte-material-ui@6.0.0/bare.min.css"
+/>
+
 <!-- Roboto -->
 <link
   rel="stylesheet"
