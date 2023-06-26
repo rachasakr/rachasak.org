@@ -1,5 +1,6 @@
 <script lang="js">
   import Paper, { Title, Content } from '@smui/paper';
+  import Button, { Label } from '@smui/button';
   import LayoutGrid, { Cell } from '@smui/layout-grid';
 
 </script>
@@ -29,6 +30,11 @@
 			<Content>
 				<p class="mdc-typography--body1">The <i>official, professional</i> website for Mr. Rachasak</p>
 				<small class="mdc-typography--body1">coming soon</small>
+				<p class="mdc-typography--body1" style="text-align: center;">
+					<Button href="https://www.ericconsultant.in.th" target="_blank" variant="outlined">
+						<Label>Eric Legal & Consultant</Label>
+					</Button>
+				</p>
 			</Content>
 		</div>
 	</Paper>
