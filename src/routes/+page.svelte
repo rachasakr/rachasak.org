@@ -34,6 +34,9 @@
 					<Button href="https://www.ericconsultant.in.th" target="_blank" variant="outlined">
 						<Label>Eric Legal & Consultant</Label>
 					</Button>
+					<Button href="https://docs-verify.rachasak.org" target="_blank" variant="outlined">
+						<Label>Document Verification</Label>
+					</Button>
 				</p>
 			</Content>
 		</div>
